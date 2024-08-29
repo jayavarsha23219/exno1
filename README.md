@@ -101,6 +101,7 @@ delid
 sns.boxplot(x='sepal_width',data=delid)
 ```
 ![image](https://github.com/user-attachments/assets/1fe42bd6-c5ad-4751-8dac-b97cfe80c036)
+# Z-Score:
 ```
 import matplotlib.pyplot as plt
 import pandas as pd
